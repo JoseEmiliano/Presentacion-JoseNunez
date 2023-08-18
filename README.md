@@ -15,6 +15,10 @@
 * Python
 * SQL
 
+## Deportes preferidos
++ Natacion
++ Football
++ Basquet
 
 
 
