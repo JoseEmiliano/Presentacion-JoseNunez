@@ -6,7 +6,7 @@
 * Edad: 36 Años
 * Casado
 * 2 Hijos
-* Analista Senior de Soporte Tecnico L2 
+* Analista Senior de Soporte Técnico L2 
 
 ## Lenguajes de programacion Preferidos
 
@@ -16,7 +16,7 @@
 * SQL
 
 ## Deportes preferidos
-+ Natacion
++ Natación
 + Football
 + Basquet
 
